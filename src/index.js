@@ -38,6 +38,7 @@ export {
   StripeProvider,
   injectStripe,
   Elements,
+  Element,
   CardElement,
   CardNumberElement,
   CardExpiryElement,
